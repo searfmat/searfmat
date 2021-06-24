@@ -1,7 +1,6 @@
  ### Hello!
 
 I am currently a junior computer science BS student at the University of Delaware. Concentration in systems and networks.
-I am interested in firmware and embedded systems engineering.
 
 ### Current projects
 - Working with [Zephyr](https://github.com/zephyrproject-rtos/zephyr)
