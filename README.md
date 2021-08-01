@@ -1,6 +1,6 @@
  ### Hello!
 
-I am currently a junior computer science BS student at the University of Delaware. Concentration in systems and networks.
+I am currently a junior Computer Science student at the University of Delaware. Concentration in systems and networks.
 
 ### Current projects
 - Learning Go
