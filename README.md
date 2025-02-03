@@ -1,1 +1,1 @@
-
+Be generous. Be kind.
