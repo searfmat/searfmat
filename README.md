@@ -1,1 +1,3 @@
-Be generous. Be kind.
+Be genrous; kind; curious.
+
+Profile icon from [OpenMoji](https://openmoji.org/)
